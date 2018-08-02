@@ -42,7 +42,7 @@
     "preact": "^7.1.0",
     "preact-compat": "^3.9.3",
     "react": "^15.4.1",
-    "react-dom": "^15.4.1",
+    "react-dom": "^16.0.1",
     "react-lite": "^0.15.28",
     "react-redux": "^4.4.6",
     "react-router": "^3.0.0",
